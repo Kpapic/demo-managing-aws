@@ -1,0 +1,2 @@
+ami: ami-09748abeb7370d1bc
+subnet_id: subnet-0fedda381a52b9362
